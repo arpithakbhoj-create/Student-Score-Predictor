@@ -31,5 +31,3 @@ plt.grid(True, linestyle='--', alpha=0.6)
 plt.savefig('results_plot.png')
 print("Model trained successfully. Graph saved as 'results_plot.png'")
 
-# Optional: Show the plot if running locally
-# plt.show()
